@@ -1,2 +1,2 @@
-# c-_practice
+# cpp_practice
 just some simple practices for learning
